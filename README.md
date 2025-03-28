@@ -1,18 +1,8 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Event Cloud Management
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+![Screenshot 2025-03-28 at 1 05 05 PM](https://github.com/user-attachments/assets/ab58d1a8-8be5-48cf-8430-fcd11f640457)
+# Salesforce Data Model
 
-## How Do You Plan to Deploy Your Changes?
+# Salesforce Tools Needed: Apex Trigger & Test Class, Validation Rules
+# Skills Tested: Before-Save record updates, Same-Record validations, Cross-Object DML, SOQL/Retrieving Data
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
